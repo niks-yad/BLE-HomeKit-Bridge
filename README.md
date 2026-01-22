@@ -32,8 +32,8 @@ This project solves the "slow connection" and "unstable plugin" issues common wi
 ### 1. Installation
 Clone this repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/istrip-homekit-bridge.git
-cd istrip-homekit-bridge
+git clone https://github.com/niks-yad/BLE-HomeKit-Bridge.git
+cd BLE-HomeKit-Bridge
 python3 -m venv venv
 source venv/bin/activate
 pip install flask bleak pycryptodome colorsys
